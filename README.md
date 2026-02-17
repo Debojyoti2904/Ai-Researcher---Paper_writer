@@ -122,7 +122,7 @@ streamlit run frontend.py
 ---
 
 <div align="center">
-<p>Educational Purpose Only • Developed by @Al.with.Hassan</p>
+<p>Educational Purpose Only • Developed with ❤️ </p>
 </div>
 
 ```
