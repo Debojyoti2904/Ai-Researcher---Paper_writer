@@ -86,7 +86,7 @@ Ensure you have **Python 3.11+** and **Tectonic** installed on your system (requ
 ### 2. Clone & Environment
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/AI-Researcher.git](https://github.com/YOUR_USERNAME/AI-Researcher.git)
+git clone <repository-url>
 cd AI-Researcher
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
