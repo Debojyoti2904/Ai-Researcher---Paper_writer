@@ -1,0 +1,17 @@
+# Environments
+venv/
+env/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Output files
+output/
+*.pdf
+*.png
+*.tex
+
+# OS files
+.DS_Store
